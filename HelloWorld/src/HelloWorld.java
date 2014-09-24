@@ -9,10 +9,6 @@
  * Note: 
  * 
  * 
- * Last commit: $Date$
- * Revision: $Rev$
- * Commit User: $Author$
- * 
  * Copyright (c) 2014, Yuki All rights reserved.
  */
 
@@ -32,10 +28,11 @@ public class HelloWorld {
     }
     
     /**
-     * 
+     * main method
      */
     public static void main(String[] args) {
         System.out.println("Hello, world.");
+        System.out.println("Hello, GitHub.");
         
     }
     
